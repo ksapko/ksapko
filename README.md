@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Kasia</h1>
 <h3 align="center">Here I'll show you what I'm working on.</h3>
 
-- 🚀 I'm start build small project in **HTML, CSS and JS**
+- 🚀 I'm start build small project in **HTML, CSS**
 
 - 👨🏽‍💻 Technologies I'm still learning **🔝**
 
